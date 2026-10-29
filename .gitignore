@@ -1,0 +1,7 @@
+# Never vendor AGPL upstream into this study repo
+vendor/
+0700-AAM/
+*.DS_Store
+.idea/
+.vscode/
+*.swp
